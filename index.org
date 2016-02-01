@@ -11,6 +11,3 @@ OCaml에 대한 이야기를 주실 분들은 github 이슈(https://github.com/s
 OCaml.kr
 김승진 
 
-
-
-
